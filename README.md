@@ -1,8 +1,6 @@
-# KUBI Website
+# A safe, simplified version of our website project
 
-This repository is for Website 2.0 - our new website!
-
-The website will be able to integrate with the DAO, DeWork, Github, Discord, Notion, Storefront, and KUBI Calendar. 
+New members, experiment freely with all the features of git, GitHub, React without any fear of messing something up.
 
 ### Getting started
 1. Clone the repository so that you have a local version on your computer.
